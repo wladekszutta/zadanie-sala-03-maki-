@@ -1,0 +1,22 @@
+.nawigacja{
+    margin: 20px;
+}
+
+ul li{
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+    margin: 20px 20px;
+}
+
+.nawigacja-kontener{
+    display: inline;
+    max-width: 1200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo img,#logo a{
+    width: 30px;
+    height: auto;
+}
